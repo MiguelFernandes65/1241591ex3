@@ -1,0 +1,10 @@
+Algoritmo soma
+
+Ed: n1,n2,soma inteiro
+
+Inicio
+	Escrever ("introduza os 2 valores a somar:")
+	Ler (n1,n2)
+	soma <- n1+n2
+	Escrever("soma :", soma)
+Fim
