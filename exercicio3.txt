@@ -5,6 +5,9 @@ Ed: n1,n2,subtracao inteiro
 Inicio
 	Escrever ("introduza os 2 valores a subtrair:")
 	Ler (n1,n2)
-	soma <- n1-n2
+	Se n1>n2 ENTÃO
+	subtracao <- n1-n2
+	SENÃO
+	subtracao <- n2-n1
 	Escrever("subtracao :", subtracao)
 Fim
