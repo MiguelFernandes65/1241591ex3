@@ -1,10 +1,10 @@
-Algoritmo soma
+Algoritmo subtracao
 
-Ed: n1,n2,soma inteiro
+Ed: n1,n2,subtracao inteiro
 
 Inicio
-	Escrever ("introduza os 2 valores a somar:")
+	Escrever ("introduza os 2 valores a subtrair:")
 	Ler (n1,n2)
-	soma <- n1+n2
-	Escrever("soma :", soma)
+	soma <- n1-n2
+	Escrever("subtracao :", subtracao)
 Fim
